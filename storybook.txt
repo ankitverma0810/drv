@@ -1,0 +1,4 @@
+Commands:
+
+1) npx sb init - (To install storybook in React application)
+2) yarn storybook (To run storybook)
